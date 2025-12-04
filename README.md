@@ -6,7 +6,7 @@ The analysis uses the Kaggle dataset *Sleep Deprivation and Cognitive Performanc
 
 ---
 
-## 🔍 Project Objectives
+## Project Objectives
 - Understand how sleep, stress, and lifestyle metrics relate to cognitive performance.
 - Perform exploratory data analysis (EDA) using histograms, scatterplots, and correlation heatmaps.
 - Build and evaluate multiple ML models, including:
