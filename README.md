@@ -19,7 +19,7 @@ The analysis uses the Kaggle dataset *Sleep Deprivation and Cognitive Performanc
 
 ---
 
-## 📊 Key Findings
+## Findings
 - **KNN showed the lowest error (best performance),** but all models produced negative R² values.
 - This indicates the models could not outperform a simple average predictor—however, this is *common in cognitive and behavioral datasets*, where human performance is highly variable.
 - Sleep, stress, caffeine intake, and working-memory accuracy showed **weak predictive power** for Stroop reaction time in this sample.
@@ -27,7 +27,7 @@ The analysis uses the Kaggle dataset *Sleep Deprivation and Cognitive Performanc
 
 ---
 
-## 🧠 Dataset
+## Dataset
 Source: Kaggle  
 https://www.kaggle.com/datasets/sacramentotechnology/sleep-deprivation-and-cognitive-performance/data
 
@@ -50,7 +50,7 @@ Raw data is **not included** in the repo—only referenced.
 
 ---
 
-## 📓 Notebook
+## Notebook
 The full analysis is located in:
 
 ```
@@ -67,7 +67,7 @@ It includes:
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 ```
 pandas
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repo:
 
