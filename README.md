@@ -102,7 +102,7 @@ jupyter notebook notebooks/human_cognitive_performance.ipynb
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates the challenges of predicting human cognitive performance using behavioral variables. While the models did not achieve strong predictive power, the workflow provides a full example of real-world data preprocessing, visualization, and machine-learning evaluation on a noisy behavioral dataset.
 
