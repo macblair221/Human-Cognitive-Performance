@@ -54,7 +54,7 @@ Raw data is **not included** in the repo—only referenced.
 The full analysis is located in:
 
 ```
-notebooks/human_cognitive_performance.ipynb
+human_cognitive_performance.ipynb
 ```
 
 It includes:
